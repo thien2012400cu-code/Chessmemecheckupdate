@@ -1,6 +1,8 @@
 {
-  "version": "1.0",
-  "url": "https://github.com/thien2012400cu-code/Chessmeme/raw/main/ChessMeme.apk",
+  "version": "1.0.1",
+  "url": "https://github.com/thien2012400cu-code/Chessmeme/releases/download/V1.0.1/Chessmeme1.0.apk",
   "force": true,
-  "note": "Bản mới đã có, hãy cập nhật để tiếp tục chơi."
+  "note": "Bản mới đã có, hãy cập nhật để tiếp tục chơi.",
+  "topic": "cm/a9edc3eb8296f65273c5c170",
+  "broker": "wss://broker.emqx.io:8084/mqtt"
 }
